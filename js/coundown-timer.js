@@ -1,6 +1,6 @@
 function countdown(dateEnd) {
   var timer, days, hours, minutes, seconds;
-
+  
   dateEnd = new Date(dateEnd);
   dateEnd = dateEnd.getTime();
 
@@ -19,7 +19,7 @@ function countdown(dateEnd) {
                              dateStart.getUTCMinutes(),
                              dateStart.getUTCSeconds());
     var timeRemaining = parseInt((dateEnd - dateStart.getTime()) / 1000)
-
+    console.log(timeRemaining)
     if ( timeRemaining >= 0 ) {
       days    = parseInt(timeRemaining / 86400);
       timeRemaining   = (timeRemaining % 86400);
@@ -43,4 +43,4 @@ function countdown(dateEnd) {
 
 
 
-countdown('24/10/2021 10:00:00 AM');
+countdown('2021/10/24 20:17:40 GMT+07:00');
