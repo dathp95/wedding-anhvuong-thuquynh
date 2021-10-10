@@ -43,4 +43,4 @@ function countdown(dateEnd) {
 
 
 
-countdown('2021/10/24 20:17:40 GMT+07:00');
+countdown('2021/10/24 10:00:00 AM GMT+07:00');
