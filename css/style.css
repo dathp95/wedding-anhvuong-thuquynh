@@ -2178,9 +2178,9 @@ textarea:focus {
 @media (max-width: 380px) {
 /*-- Header Css Start --*/
 .wd_slider_wrapper{
-	float:center;
-	background:url(https://github.com/dathp95/wedding-anhvuong-thuquynh/blob/main/image/cover-min.png?raw=true);
-	position:relative;
+    float:center;
+    background:url(https://github.com/dathp95/wedding-anhvuong-thuquynh/blob/main/image/cover-min.png?raw=true);
+    position:relative;
     background-attachment: fixed;
     position: relative;
     background-size: cover;
