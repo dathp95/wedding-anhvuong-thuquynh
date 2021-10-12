@@ -2179,7 +2179,7 @@ textarea:focus {
 /*-- Header Css Start --*/
 .wd_slider_wrapper{
     float:center;
-    background:url(https://github.com/dathp95/wedding-anhvuong-thuquynh/blob/main/image/cover-min.png?raw=true);
+    background:url(https://github.com/dathp95/wedding-anhvuong-thuquynh/blob/main/image/570x850.png?raw=true);
     position:relative;
     background-attachment: fixed;
     position: relative;
@@ -2189,6 +2189,6 @@ textarea:focus {
 }
 }
 @media (min-width: 991px) and (max-width: 1199px){
-	.wd_story_covers_box_right{width:410px;}
+	.wd_story_covers_box_right{width:450px;}
 }
 /*-- Responsive css End --*/
