@@ -2175,7 +2175,7 @@ textarea:focus {
     border: 0;
   }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
 /*-- Header Css Start --*/
 .wd_slider_wrapper{
     float:center;
@@ -2188,7 +2188,7 @@ textarea:focus {
     background-repeat: no-repeat;
 }
 }
-@media (min-width: 991px) and (max-width: 1199px){
-	.wd_story_covers_box_right{width:450px;}
+@media (min-width: 800px) and (max-width: 1199px){
+	.wd_story_covers_box_right{width:480px;}
 }
 /*-- Responsive css End --*/
